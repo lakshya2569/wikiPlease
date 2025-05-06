@@ -1,0 +1,20 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "userArticles",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "authorEmail", "order": "ASCENDING"},
+        {"fieldPath": "createdAt", "order": "DESCENDING"}
+      ]
+    },
+    {
+      "collectionGroup": "userArticles",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {"fieldPath": "createdAt", "order": "DESCENDING"}
+      ]
+    }
+  ],
+  "fieldOverrides": []
+}
