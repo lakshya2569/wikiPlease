@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "969057077311",
-    "project_id": "wiki-now2",
+    "project_number": "//",
+    "project_id": "//",
     "storage_bucket": "wiki-now2.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:969057077311:android:cc663412196804c055d08a",
+        //add ur own thing here
         "android_client_info": {
           "package_name": "com.example.wikinow"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAO0wE-i3yMIY1evGA7tu0Oe4jIXBOpLH0"
+          //add ur own thing here
         }
       ],
       "services": {
